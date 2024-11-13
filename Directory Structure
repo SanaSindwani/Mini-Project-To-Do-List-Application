@@ -1,0 +1,8 @@
+Directory Structure:
+
+ToDoApp/
+├── src/
+│   └── ToDoApp.java
+├── tasks.txt
+├── README.md
+└── .gitignore
