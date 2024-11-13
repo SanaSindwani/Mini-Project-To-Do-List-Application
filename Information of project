@@ -1,0 +1,14 @@
+Project Name: To-Do List Application (Java)
+
+Project Overview:
+This is a simple To-Do List App where users can add, remove, and view tasks. The app will store tasks in a text file, allowing users to persist their tasks between sessions.
+
+Requirements:
+-Java (any version from 8 onwards)
+-Text editor/IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code)
+
+Features:
+1) Add Task: Users can add tasks to their to-do list.
+2) Remove Task: Users can remove tasks from the list.
+3) View Tasks: Users can view all the tasks in their to-do list.
+4) Save Tasks to File: Tasks are stored in a text file so they persist when the application is closed and reopened.
