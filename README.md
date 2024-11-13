@@ -16,7 +16,7 @@ A simple command-line to-do list application built in Java. This app allows user
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ToDoApp.git
+   git clone https://github.com/SanaSindwani/ToDoApp.git
 
 2. Navigate to the project directory and compile the Java file:
 javac ToDoApp.java
